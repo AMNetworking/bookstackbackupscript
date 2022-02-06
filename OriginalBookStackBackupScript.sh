@@ -1,5 +1,5 @@
 # set current date
-BKDATE=$(date "+%F-%_H-%_M-%_S")
+BKDATE=$(date "+%F-%H-%M-%S")
 
 # set name of backup file
 BFNAME=bookstack-total-backup-"$BKDATE"
